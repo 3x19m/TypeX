@@ -17,6 +17,6 @@ Console / ريدوي
 
 * `cd Hax4_TypeX`
 
-* `python Hax4_TypeX.py
+* `python Hax4_TypeX.py`
 
-### ( FREE OF COST )
+### ( INSPIRED BY TOXICNOOB )
