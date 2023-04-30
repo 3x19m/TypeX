@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF0000&width=460&height=70&lines=+TYPING+SPEED+CHECKER+⚠" alt="Typing SVG" /></a>
+
 
 <p align="center">
 Console / ريدوي
